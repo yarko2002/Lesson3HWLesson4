@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Lesson3HWLesson4"
+    }
+  },
+  "defaultProject": "Lesson3HWLesson4",
+  "cli": {
+    "analytics": "e362592b-b926-45e5-b56f-6249d65fc583"
+  }
 }
